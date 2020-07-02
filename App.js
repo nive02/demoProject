@@ -8,7 +8,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Nivetha Siva</Text>
-      <Button title='Button' type='outline'/>
+      <Button title='My first button' type='outline'/>
       <StatusBar style="auto" />
     </View>
   );
